@@ -1,0 +1,31 @@
+{
+  "name": "babel-preset-es2015-node4",
+  "version": "1.0.0",
+  "description": "Babel preset to make node@4 ES2015 compatible.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbach/babel-preset-es2015-node4.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-preset",
+    "babel-preset-es2015",
+    "node4"
+  ],
+  "author": "Jonas Bach <hallo@jonasbach.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbach/babel-preset-es2015-node4/issues"
+  },
+  "homepage": "https://github.com/jbach/babel-preset-es2015-node4#readme",
+  "dependencies": {
+    "babel-plugin-transform-es2015-destructuring": "^6.0.18",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.0.18",
+    "babel-plugin-transform-es2015-parameters": "^6.0.18",
+    "babel-plugin-transform-es2015-spread": "^6.0.14",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.0.18",
+    "babel-plugin-transform-es2015-typeof-symbol": "^6.0.15",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.0.18"
+  }
+}
