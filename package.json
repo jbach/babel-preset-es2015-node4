@@ -25,8 +25,6 @@
     "babel-plugin-transform-es2015-parameters": "^6.0.18",
     "babel-plugin-transform-es2015-spread": "^6.0.14",
     "babel-plugin-transform-es2015-sticky-regex": "^6.0.18",
-    "babel-plugin-transform-es2015-typeof-symbol": "^6.1.2",
-    "babel-plugin-transform-es2015-unicode-regex": "^6.0.18",
-    "babel-plugin-transform-regenerator": "^6.0.18"
+    "babel-plugin-transform-es2015-unicode-regex": "^6.0.18"
   }
 }
