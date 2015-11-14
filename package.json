@@ -20,11 +20,12 @@
   },
   "homepage": "https://github.com/jbach/babel-preset-es2015-node4#readme",
   "dependencies": {
-    "babel-plugin-transform-es2015-destructuring": "^6.0.18",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.3",
-    "babel-plugin-transform-es2015-parameters": "^6.0.18",
-    "babel-plugin-transform-es2015-spread": "^6.0.14",
-    "babel-plugin-transform-es2015-sticky-regex": "^6.0.18",
-    "babel-plugin-transform-es2015-unicode-regex": "^6.0.18"
+    "babel-plugin-transform-es2015-destructuring": "^6.1.18",
+    "babel-plugin-transform-es2015-function-name": "^6.1.18",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.20",
+    "babel-plugin-transform-es2015-parameters": "^6.1.18",
+    "babel-plugin-transform-es2015-spread": "^6.1.18",
+    "babel-plugin-transform-es2015-sticky-regex": "^6.1.18",
+    "babel-plugin-transform-es2015-unicode-regex": "^6.1.18"
   }
 }

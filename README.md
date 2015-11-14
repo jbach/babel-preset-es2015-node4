@@ -9,6 +9,7 @@ this module just adds missing features:
 - modules
 - unicode and sticky regular expressions
 - spread operator
+- function.name
 
 ## Install
 
