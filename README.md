@@ -14,7 +14,7 @@ this module just adds missing features:
 ## Does not include regenerator!
 [You can **not** blacklist plugins in babel@6.](https://github.com/babel/babel/issues/3016) To avoid cruft, this preset does not include *full* Generators support via regenerator.
 
-If you rely on `%GeneratorPrototype%.return`, `yield *, iterator closing` or `yield *, iterator closing via throw()` (see [compat table](https://kangax.github.io/compat-table/es6/#test-generators)), you will have to `npm install and include regenerator yourself:
+If you rely on `%GeneratorPrototype%.return`, `yield *, iterator closing` or `yield *, iterator closing via throw()` (see [compat table](https://kangax.github.io/compat-table/es6/#test-generators)), you will have to `npm install` and include regenerator yourself:
 
 ```json
 {
