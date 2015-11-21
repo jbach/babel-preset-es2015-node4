@@ -19,7 +19,7 @@ If you rely on `%GeneratorPrototype%.return`, `yield *, iterator closing` or `yi
 ```json
 {
 	"presets": ["es2015-node4"],
-	"plugins": ["babel-plugin-transform-regenerator"]
+	"plugins": ["transform-regenerator"]
 }
 ```
 
