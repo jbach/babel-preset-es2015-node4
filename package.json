@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-node4",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Babel preset to make node@4 ES2015 compatible.",
   "main": "index.js",
   "repository": {
