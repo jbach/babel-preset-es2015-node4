@@ -1,6 +1,8 @@
-# babel-preset-es2015-node4
+# babel-preset-es2015-node4 **(DEPRECATED)**
 
 > Babel preset to make node@4 ES2015 compatible.
+
+**DEPRECATED: Use the awesome [babel-preset-env](https://github.com/babel/babel-preset-env)!**
 
 Node@4 has great [ES2015 support](https://nodejs.org/en/docs/es6/),
 this module just adds missing features:
